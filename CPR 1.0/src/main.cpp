@@ -14,12 +14,12 @@
 //------------------------------ MACROS ------------------------------//
 
 //-_-_-_-_-_-_ FIREBASE -_-_-_-_-_-//
-#define FIREBASE_HOST "djin-2022-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "21PyncuVxCRxNRBjS93ZphJBY0AQVdmGn7wDiMQh"
-#define API_KEY "AIzaSyDsMba1SlZqk_uaGMJbutv1VT48SHks93U"
-#define DATABASE_URL "https://djin-2022-default-rtdb.firebaseio.com/"
-#define USER_EMAIL "melek.guedidi@insat.ucar.tn"
-#define USER_PASSWORD "Ipanda_01"
+#define FIREBASE_HOST "*"
+#define FIREBASE_AUTH "*"
+#define API_KEY "*"
+#define DATABASE_URL "*"
+#define USER_EMAIL "*"
+#define USER_PASSWORD "*"
 
 //-_-_-_-_-_-_ servo pins -_-_-_-_-_-//
 #define SERVO1_PIN 19
